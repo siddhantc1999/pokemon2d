@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: d682afeaea682414582b93e28770ad25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 886258487948800274
+    second: pokemonthree_0
+  - first:
+      213: -7114307553794743754
+    second: pokemonthree_1
+  - first:
+      213: 4781385804548918985
+    second: pokemonthree_2
+  - first:
+      213: -4658902165438290297
+    second: pokemonthree_3
+  - first:
+      213: -6468614488472450875
+    second: pokemonthree_4
+  - first:
+      213: -1605339982999554814
+    second: pokemonthree_5
+  - first:
+      213: 838473752451664456
+    second: pokemonthree_6
+  - first:
+      213: -5770343345170783251
+    second: pokemonthree_7
+  - first:
+      213: -2178047951242850678
+    second: pokemonthree_8
+  - first:
+      213: -8559657194634341186
+    second: pokemonthree_9
+  - first:
+      213: -3392530249907165270
+    second: pokemonthree_10
+  - first:
+      213: 8300735622920128139
+    second: pokemonthree_11
+  - first:
+      213: 8606948758782254462
+    second: pokemonthree_12
+  - first:
+      213: 6559224039460552440
+    second: pokemonthree_13
+  - first:
+      213: -912910926438391108
+    second: pokemonthree_14
+  - first:
+      213: -1226487462034852864
+    second: pokemonthree_15
+  - first:
+      213: 3140618032436407036
+    second: pokemonthree_16
+  - first:
+      213: 5339838027976131680
+    second: pokemonthree_17
+  - first:
+      213: 4415423790720590993
+    second: pokemonthree_18
+  - first:
+      213: 592739369598274855
+    second: pokemonthree_19
+  - first:
+      213: -7128960591422623307
+    second: pokemonthree_20
+  - first:
+      213: 5265880460904397482
+    second: pokemonthree_21
+  - first:
+      213: -7077889266878660297
+    second: pokemonthree_22
+  - first:
+      213: -2575027394947955648
+    second: pokemonthree_23
+  - first:
+      213: 8949223630817877320
+    second: pokemonthree_24
+  - first:
+      213: -8945978784728701499
+    second: pokemonthree_25
+  - first:
+      213: -4010356937519211798
+    second: pokemonthree_26
+  - first:
+      213: -3393543100767770896
+    second: pokemonthree_27
+  - first:
+      213: 86013751553112187
+    second: pokemonthree_28
+  - first:
+      213: 4615342765405900281
+    second: pokemonthree_29
+  - first:
+      213: 599827351760026070
+    second: pokemonthree_30
+  - first:
+      213: -8509781629451023625
+    second: pokemonthree_31
+  - first:
+      213: -8843777006080683676
+    second: pokemonthree_32
+  - first:
+      213: -7279365751723537057
+    second: pokemonthree_33
+  - first:
+      213: 8883068906202644958
+    second: pokemonthree_34
+  - first:
+      213: -6403325535867097402
+    second: pokemonthree_35
+  - first:
+      213: -8643977592229364528
+    second: pokemonthree_36
+  - first:
+      213: 5069963514663765324
+    second: pokemonthree_37
+  - first:
+      213: -8750196740328275937
+    second: pokemonthree_38
+  - first:
+      213: -315579862749094440
+    second: pokemonthree_39
+  - first:
+      213: -3925962198147897327
+    second: pokemonthree_40
+  - first:
+      213: 7460786735941938879
+    second: pokemonthree_41
+  - first:
+      213: 4824924164987561161
+    second: pokemonthree_42
+  - first:
+      213: -1831745949114242951
+    second: pokemonthree_43
+  - first:
+      213: -5224496946134155655
+    second: pokemonthree_44
+  - first:
+      213: 5661062617038344230
+    second: pokemonthree_45
+  - first:
+      213: -7384400617051056055
+    second: pokemonthree_46
+  - first:
+      213: 2241727759524406609
+    second: pokemonthree_47
+  - first:
+      213: 6420167216020123536
+    second: pokemonthree_48
+  - first:
+      213: 145047417780051328
+    second: pokemonthree_49
+  - first:
+      213: 8089038321188032464
+    second: pokemonthree_50
+  - first:
+      213: -7966170968193065929
+    second: pokemonthree_51
+  - first:
+      213: -1844195335059976528
+    second: pokemonthree_52
+  - first:
+      213: 1549645485471747113
+    second: pokemonthree_53
+  - first:
+      213: -7187597535584150041
+    second: pokemonthree_54
+  - first:
+      213: 7640591426690188650
+    second: pokemonthree_55
+  - first:
+      213: 3619469894366747147
+    second: pokemonthree_56
+  - first:
+      213: -349143541599129616
+    second: pokemonthree_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pokemonthree_0
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 797
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211fc51366f9c4c00800000000000000
+      internalID: 886258487948800274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 796
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632af2919f6e44d90800000000000000
+      internalID: -7114307553794743754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 796
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cecb3e6e05ea5240800000000000000
+      internalID: 4781385804548918985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 796
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786a0c91a21485fb0800000000000000
+      internalID: -4658902165438290297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_4
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 801
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c887a9156dda36a0800000000000000
+      internalID: -6468614488472450875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_5
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 601
+        width: 36
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20574997acfa8b9e0800000000000000
+      internalID: -1605339982999554814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_6
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 601
+        width: 35
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ace587f6bd2ab00800000000000000
+      internalID: 838473752451664456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_7
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 605
+        width: 51
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de36e07dc4f9befa0800000000000000
+      internalID: -5770343345170783251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 736
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e076a9de406c1e0800000000000000
+      internalID: -2178047951242850678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 734
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb414bae12df53980800000000000000
+      internalID: -8559657194634341186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 736
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7248c46bf4be0d0800000000000000
+      internalID: -3392530249907165270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 734
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86c592e113223370800000000000000
+      internalID: 8300735622920128139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 672
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d94376b46027770800000000000000
+      internalID: 8606948758782254462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_13
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 676
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8febf3af28b070b50800000000000000
+      internalID: 6559224039460552440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 674
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb221166950b453f0800000000000000
+      internalID: -912910926438391108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_15
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 675
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00431f7c624aafee0800000000000000
+      internalID: -1226487462034852864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 601
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaee86f577b59b20800000000000000
+      internalID: 3140618032436407036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_17
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 601
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064c3af056aea1a40800000000000000
+      internalID: 5339838027976131680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 537
+        width: 86
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194a5b23b8cb64d30800000000000000
+      internalID: 4415423790720590993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_19
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 528
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d4b41f055d93800800000000000000
+      internalID: 592739369598274855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_20
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 358
+        width: 71
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1fe7aec18d01d90800000000000000
+      internalID: -7128960591422623307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_21
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 554
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa70ed116a241940800000000000000
+      internalID: 5265880460904397482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 477
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731c528463946cd90800000000000000
+      internalID: -7077889266878660297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_23
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 478
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0444a353a3aa34cd0800000000000000
+      internalID: -2575027394947955648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_24
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 477
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d5e6a2a77023c70800000000000000
+      internalID: 8949223630817877320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_25
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 478
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5a01071bf79d380800000000000000
+      internalID: -8945978784728701499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_26
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 487
+        width: 16
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aead4a4fc995858c0800000000000000
+      internalID: -4010356937519211798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_27
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 400
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f662c49786b7e0d0800000000000000
+      internalID: -3393543100767770896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_28
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 407
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b783f132d05913100800000000000000
+      internalID: 86013751553112187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_29
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 400
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd00b0cacdfc0040800000000000000
+      internalID: 4615342765405900281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_30
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 407
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d938346cc3035800800000000000000
+      internalID: 599827351760026070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_31
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 417
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa4d6cd1be27e980800000000000000
+      internalID: -8509781629451023625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 333
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4611bc75ba7944580800000000000000
+      internalID: -8843777006080683676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_33
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 333
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dcf52aa6f7afa90800000000000000
+      internalID: -7279365751723537057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_34
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 341
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1c68d0b10074b70800000000000000
+      internalID: 8883068906202644958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_35
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 358
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce2475f951d227a0800000000000000
+      internalID: -6403325535867097402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_36
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 215
+        width: 29
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc7bb87d2c6a0880800000000000000
+      internalID: -8643977592229364528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_37
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 328
+        width: 118
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4589bb64f02c5640800000000000000
+      internalID: 5069963514663765324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 270
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10c3f9dc6e019680800000000000000
+      internalID: -8750196740328275937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_39
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 270
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddd29e69c5de9bf0800000000000000
+      internalID: -315579862749094440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_40
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 271
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11868c17e2e2489c0800000000000000
+      internalID: -3925962198147897327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 207
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbee3c4e10a0a8760800000000000000
+      internalID: 7460786735941938879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_42
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 207
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4284ae6f295f240800000000000000
+      internalID: 4824924164987561161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_43
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 207
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978e848a3c45496e0800000000000000
+      internalID: -1831745949114242951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_44
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 207
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e7f8345bbde77b0800000000000000
+      internalID: -5224496946134155655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_45
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 178
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62050d3e472209e40800000000000000
+      internalID: 5661062617038344230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 140
+        width: 165
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9481f7553c6558990800000000000000
+      internalID: -7384400617051056055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_47
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 142
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155a59525873c1f10800000000000000
+      internalID: 2241727759524406609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_48
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 102
+        width: 52
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fec754114091950800000000000000
+      internalID: 6420167216020123536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_49
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 101
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d1e54abdf430200800000000000000
+      internalID: 145047417780051328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_50
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 101
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df4fecde79024070800000000000000
+      internalID: 8089038321188032464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_51
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 99
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c92d406b9727190800000000000000
+      internalID: -7966170968193065929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_52
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be415d1d1a1866e0800000000000000
+      internalID: -1844195335059976528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_53
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 113
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cc451db52718510800000000000000
+      internalID: 1549645485471747113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_54
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 106
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed98077f16804c90800000000000000
+      internalID: -7187597535584150041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_55
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3
+        width: 219
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6583c5cb65d80a60800000000000000
+      internalID: 7640591426690188650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_56
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 98
+        width: 80
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a53f031b0fa3230800000000000000
+      internalID: 3619469894366747147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonthree_57
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3
+        width: 218
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffac5b7cc7972bf0800000000000000
+      internalID: -349143541599129616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

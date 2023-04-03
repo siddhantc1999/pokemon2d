@@ -1,0 +1,2084 @@
+fileFormatVersion: 2
+guid: 86d83ed81d673a640a487989ecc206c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8504982406476344331
+    second: pokemonsecond_0
+  - first:
+      213: 6663037913752423562
+    second: pokemonsecond_1
+  - first:
+      213: 4346208974628601041
+    second: pokemonsecond_2
+  - first:
+      213: -6692118094441454370
+    second: pokemonsecond_3
+  - first:
+      213: -2163757775300382009
+    second: pokemonsecond_4
+  - first:
+      213: 2753209964546989915
+    second: pokemonsecond_5
+  - first:
+      213: 4619248638274745642
+    second: pokemonsecond_6
+  - first:
+      213: -8775547893688357205
+    second: pokemonsecond_7
+  - first:
+      213: 7199297354301227584
+    second: pokemonsecond_8
+  - first:
+      213: -1676223807130130142
+    second: pokemonsecond_9
+  - first:
+      213: 8145297935469786551
+    second: pokemonsecond_10
+  - first:
+      213: 3956349057508111622
+    second: pokemonsecond_11
+  - first:
+      213: -8381664401874242444
+    second: pokemonsecond_12
+  - first:
+      213: 3206846905984770958
+    second: pokemonsecond_13
+  - first:
+      213: -5801606051185821540
+    second: pokemonsecond_14
+  - first:
+      213: 8094602139476578249
+    second: pokemonsecond_15
+  - first:
+      213: -3970237350913466329
+    second: pokemonsecond_16
+  - first:
+      213: -2463253860168238220
+    second: pokemonsecond_17
+  - first:
+      213: -7893377619390919643
+    second: pokemonsecond_18
+  - first:
+      213: 6358554046282973347
+    second: pokemonsecond_19
+  - first:
+      213: -1434451671647473055
+    second: pokemonsecond_20
+  - first:
+      213: -9153019265756011308
+    second: pokemonsecond_21
+  - first:
+      213: -4299526730556263202
+    second: pokemonsecond_22
+  - first:
+      213: -734668874058719228
+    second: pokemonsecond_23
+  - first:
+      213: -2668854269418047794
+    second: pokemonsecond_24
+  - first:
+      213: 6254151477482225918
+    second: pokemonsecond_25
+  - first:
+      213: -1079013576638172025
+    second: pokemonsecond_26
+  - first:
+      213: -1061887567431702974
+    second: pokemonsecond_27
+  - first:
+      213: -7354999852290970193
+    second: pokemonsecond_28
+  - first:
+      213: 3234892603222176830
+    second: pokemonsecond_29
+  - first:
+      213: -7962505716184697595
+    second: pokemonsecond_30
+  - first:
+      213: 1790122065725316621
+    second: pokemonsecond_31
+  - first:
+      213: 8499755177179799808
+    second: pokemonsecond_32
+  - first:
+      213: 2170323504670404177
+    second: pokemonsecond_33
+  - first:
+      213: -8821349587446485266
+    second: pokemonsecond_34
+  - first:
+      213: 447871710733347511
+    second: pokemonsecond_35
+  - first:
+      213: 4734502911031011640
+    second: pokemonsecond_36
+  - first:
+      213: 229340168880031673
+    second: pokemonsecond_37
+  - first:
+      213: -3458756957053094907
+    second: pokemonsecond_38
+  - first:
+      213: 8633122004788653047
+    second: pokemonsecond_39
+  - first:
+      213: -7029742217153275267
+    second: pokemonsecond_40
+  - first:
+      213: 5847283366661139751
+    second: pokemonsecond_41
+  - first:
+      213: 1816950187574190162
+    second: pokemonsecond_42
+  - first:
+      213: 5706052188090006555
+    second: pokemonsecond_43
+  - first:
+      213: 4675105900813416581
+    second: pokemonsecond_44
+  - first:
+      213: -4185286096945455306
+    second: pokemonsecond_45
+  - first:
+      213: -5229836512204373453
+    second: pokemonsecond_46
+  - first:
+      213: 5404803394284586735
+    second: pokemonsecond_47
+  - first:
+      213: 5671540029654663736
+    second: pokemonsecond_48
+  - first:
+      213: -9191660197770414168
+    second: pokemonsecond_49
+  - first:
+      213: 7402752987703893119
+    second: pokemonsecond_50
+  - first:
+      213: -3186644321046623021
+    second: pokemonsecond_51
+  - first:
+      213: 8827156781082928387
+    second: pokemonsecond_52
+  - first:
+      213: 7596671003594968879
+    second: pokemonsecond_53
+  - first:
+      213: -5373772520513082036
+    second: pokemonsecond_54
+  - first:
+      213: -3888583905885740305
+    second: pokemonsecond_55
+  - first:
+      213: -2774240885710573842
+    second: pokemonsecond_56
+  - first:
+      213: -1411347410134716252
+    second: pokemonsecond_57
+  - first:
+      213: -6551000412899056193
+    second: pokemonsecond_58
+  - first:
+      213: 1340165768698712932
+    second: pokemonsecond_59
+  - first:
+      213: 1630695561513214033
+    second: pokemonsecond_60
+  - first:
+      213: -8424393051142671031
+    second: pokemonsecond_61
+  - first:
+      213: 7630345829156148359
+    second: pokemonsecond_62
+  - first:
+      213: -4264674261762763837
+    second: pokemonsecond_63
+  - first:
+      213: 3153355908970855421
+    second: pokemonsecond_64
+  - first:
+      213: -600148055384712976
+    second: pokemonsecond_65
+  - first:
+      213: -2969404370532906220
+    second: pokemonsecond_66
+  - first:
+      213: -5713207952412527484
+    second: pokemonsecond_67
+  - first:
+      213: 4480698253423451966
+    second: pokemonsecond_68
+  - first:
+      213: -3723783514874676800
+    second: pokemonsecond_69
+  - first:
+      213: 615209638795724932
+    second: pokemonsecond_70
+  - first:
+      213: -5862092556487547360
+    second: pokemonsecond_71
+  - first:
+      213: -6377251553072153399
+    second: pokemonsecond_72
+  - first:
+      213: 4515498971300495233
+    second: pokemonsecond_73
+  - first:
+      213: -1574314127476296509
+    second: pokemonsecond_74
+  - first:
+      213: 8678512549479201248
+    second: pokemonsecond_75
+  - first:
+      213: -1871073518705421947
+    second: pokemonsecond_76
+  - first:
+      213: -6944380929360005290
+    second: pokemonsecond_77
+  - first:
+      213: 6567476777511063349
+    second: pokemonsecond_78
+  - first:
+      213: 5985329045852284623
+    second: pokemonsecond_79
+  - first:
+      213: 7932949798799328334
+    second: pokemonsecond_80
+  - first:
+      213: -7090346207392443706
+    second: pokemonsecond_81
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pokemonsecond_0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 795
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c28f6ff64c70670800000000000000
+      internalID: 8504982406476344331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 795
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c4c262eadd77c50800000000000000
+      internalID: 6663037913752423562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 795
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc3a540906d05c30800000000000000
+      internalID: 4346208974628601041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 795
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed46ad9ac02d023a0800000000000000
+      internalID: -6692118094441454370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 795
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c23b3774c9c8f1e0800000000000000
+      internalID: -2163757775300382009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_5
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 795
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f93e820ed553620800000000000000
+      internalID: 2753209964546989915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_6
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 795
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25b295a92eda1040800000000000000
+      internalID: 4619248638274745642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 731
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae274f7fadf63680800000000000000
+      internalID: -8775547893688357205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 731
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042c88bdcca09e360800000000000000
+      internalID: 7199297354301227584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 731
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229a4f3145bdcb8e0800000000000000
+      internalID: -1676223807130130142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 731
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b536611159e90170800000000000000
+      internalID: 8145297935469786551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 731
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605f8349186c7e630800000000000000
+      internalID: 3956349057508111622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_12
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 731
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474bfbb62a85eab80800000000000000
+      internalID: -8381664401874242444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 667
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8368483542018c20800000000000000
+      internalID: 3206846905984770958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 667
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98ff40e80e8c7fa0800000000000000
+      internalID: -5801606051185821540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 667
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf4e9142cdc55070800000000000000
+      internalID: 8094602139476578249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 667
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720a0d02a22e6e8c0800000000000000
+      internalID: -3970237350913466329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 667
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bff014aa3c0ddd0800000000000000
+      internalID: -2463253860168238220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_18
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 667
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c8f2640e6157290800000000000000
+      internalID: -7893377619390919643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_19
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 667
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0c1dd473f1e3850800000000000000
+      internalID: 6358554046282973347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 603
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162bcfffdcdc71ce0800000000000000
+      internalID: -1434451671647473055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_21
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 603
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d46e4af871f9f080800000000000000
+      internalID: -9153019265756011308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_22
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 603
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4b5eae7330554c0800000000000000
+      internalID: -4299526730556263202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 603
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400a13e2d8eedc5f0800000000000000
+      internalID: -734668874058719228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_24
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 603
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec67d02ae2356fad0800000000000000
+      internalID: -2668854269418047794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 539
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef000d202a53bc650800000000000000
+      internalID: 6254151477482225918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 539
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78478a07ed29601f0800000000000000
+      internalID: -1079013576638172025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_27
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 539
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24664df22ea6341f0800000000000000
+      internalID: -1061887567431702974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_28
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 539
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad65215a9acde990800000000000000
+      internalID: -7354999852290970193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_29
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 539
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34b895fea5a4ec20800000000000000
+      internalID: 3234892603222176830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 475
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5053bc00d3f7f7190800000000000000
+      internalID: -7962505716184697595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 475
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e5528c88ac7d810800000000000000
+      internalID: 1790122065725316621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 475
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001e69dcc4235f570800000000000000
+      internalID: 8499755177179799808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_33
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 475
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e6f878ab98e1e10800000000000000
+      internalID: 2170323504670404177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_34
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 475
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeea6b8a945449580800000000000000
+      internalID: -8821349587446485266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_35
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 475
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba253fa2f8273600800000000000000
+      internalID: 447871710733347511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_36
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8396e08205554b140800000000000000
+      internalID: 4734502911031011640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b782d22ba7ce2300800000000000000
+      internalID: 229340168880031673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50470727fd60000d0800000000000000
+      internalID: -3458756957053094907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_39
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb290e19b20fc770800000000000000
+      internalID: 8633122004788653047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_40
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 411
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a130cd2b6517e90800000000000000
+      internalID: -7029742217153275267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d23e2ed39b52150800000000000000
+      internalID: 5847283366661139751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_42
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25060f8a19a173910800000000000000
+      internalID: 1816950187574190162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cf1fcab38ff2f40800000000000000
+      internalID: 5706052188090006555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_44
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588f0590c0051e040800000000000000
+      internalID: 4675105900813416581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_45
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f5f2c2870eae5c0800000000000000
+      internalID: -4185286096945455306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_46
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 347
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332c0b8a663eb67b0800000000000000
+      internalID: -5229836512204373453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6882d1d08b10b40800000000000000
+      internalID: 5404803394284586735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_48
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83289fc9b9b55be40800000000000000
+      internalID: 5671540029654663736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a73cc7efb9a07080800000000000000
+      internalID: -9191660197770414168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_50
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c5d00fe9cdbb660800000000000000
+      internalID: 7402752987703893119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_51
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc0082afd3c6c3d0800000000000000
+      internalID: -3186644321046623021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_52
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 283
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305e029f25c508a70800000000000000
+      internalID: 8827156781082928387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fc9c4670ccc6960800000000000000
+      internalID: 7596671003594968879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_54
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4def033d568c65b0800000000000000
+      internalID: -5373772520513082036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2216a4a89f80ac0800000000000000
+      internalID: -3888583905885740305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee2bddec9aef79d0800000000000000
+      internalID: -2774240885710573842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_57
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0b0441203e96ce0800000000000000
+      internalID: -1411347410134716252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_58
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 219
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5e6b945db2615a0800000000000000
+      internalID: -6551000412899056193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_59
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463dc678aa9399210800000000000000
+      internalID: 1340165768698712932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_60
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1502dc039f461a610800000000000000
+      internalID: 1630695561513214033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9453f52872b861b80800000000000000
+      internalID: -8424393051142671031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7845c34ba1f64e960800000000000000
+      internalID: 7630345829156148359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_63
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c311e8aa55d0d4c0800000000000000
+      internalID: -4264674261762763837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_64
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb3694fd78f2cb20800000000000000
+      internalID: 3153355908970855421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_65
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 155
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8172af588dba7f0800000000000000
+      internalID: -600148055384712976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bc4e3257e8ac6d0800000000000000
+      internalID: -2969404370532906220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_67
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484b38c13ab96b0b0800000000000000
+      internalID: -5713207952412527484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_68
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f940d5253ae2e30800000000000000
+      internalID: 4480698253423451966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_69
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c970776f96725cc0800000000000000
+      internalID: -3723783514874676800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488c0de28e9a98800800000000000000
+      internalID: 615209638795724932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_71
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026291ae0e9a5aea0800000000000000
+      internalID: -5862092556487547360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_72
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc73d720837f77a0800000000000000
+      internalID: -6377251553072153399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_73
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ff108e3664aae30800000000000000
+      internalID: 4515498971300495233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c475e264a9e62ae0800000000000000
+      internalID: -1574314127476296509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_75
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e93a7ade25407870800000000000000
+      internalID: 8678512549479201248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_76
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5815ce05c8c9806e0800000000000000
+      internalID: -1871073518705421947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_77
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657ff70765a90af90800000000000000
+      internalID: -6944380929360005290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_78
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f8c2a455d542b50800000000000000
+      internalID: 6567476777511063349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_79
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc66ad93e09201350800000000000000
+      internalID: 5985329045852284623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_80
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44c07abfcf771e60800000000000000
+      internalID: 7932949798799328334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemonsecond_81
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 27
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2d5ddc0b70a9d90800000000000000
+      internalID: -7090346207392443706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
